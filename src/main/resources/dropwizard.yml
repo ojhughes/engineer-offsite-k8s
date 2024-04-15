@@ -1,6 +1,6 @@
 hello:
-  template: ${DW_TEMPLATE!'Hello, %s!'}
-  defaultName: ${DW_DEFAULT_NAME!'Stranger'}
+  template: ${'Hello, %s!'}
+  defaultName: ${'Stranger'}
 
 server:
   type: simple
